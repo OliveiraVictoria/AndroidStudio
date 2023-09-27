@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="360dp"
+        android:layout_height="48dp"
+        android:text="Desabamento em Itapecerica da Serra deixa 9 mortos e 28 feridos"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="440dp"
+        android:layout_height="218dp"
+        app:srcCompat="@drawable/desabamento"
+        tools:layout_editor_absoluteX="-15dp"
+        tools:layout_editor_absoluteY="72dp" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="De acordo com a major dos bombeiros Luciana Soares, cerca de 64 trabalhadores estavam em uma reunião no auditório de um galpão da empresa, quando a laje desabou. A área tem 10 mil metros quadrados.  Em nota, a empresa Multiteiner lamentou o acidente e disse que todos foram surpreendidos pelo rompimento da estrutura, que tem a causa desconhecida.  &quot;Informamos que todas as medidas estão sendo adotadas para apurar e esclarecer todo o ocorrido, contudo, neste momento, estamos priorizando o apoio e assistência aos nossos colaboradores e aos seus familiares. Entraremos em contato com todas as famílias e também gostaríamos de disponibilizar um canal de contato através do email centraldeapoio@multiteiner.com.br&quot;."
+        android:textAlignment="center"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="302dp" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mais de 15 viaturas foram acionadas para o local por volta das 9h, além de unidades de resgate do Serviço de Atendimento Móvel de Urgência (Samu) e equipes da Defesa Civil de Itapecerica da Serra e Taboão da Serra. Por volta das 16h, os bombeiros informaram que foram encerradas as buscas."
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="526dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DFDCDC">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="374dp"
+        android:layout_height="92dp"
+        android:text="@string/enviamos_toda_quarta_feira_de_manh_uma_sele_o_com_os_melhores_conte_dos_publicados_no_portal_vida_simples_diretamente_por_e_mail_alimenta_o_hidrata_o_prote_o_da_pele_e_dos_cabelos_veja_dicas_para_ficar_bem_quando_est_calor"
+        android:textColor="#000000"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="684dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="270dp"
+        android:layout_height="243dp"
+        app:srcCompat="@drawable/boneco"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="56dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/newsletter_vida_simples"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_1_pele"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="18dp"
+        tools:layout_editor_absoluteY="341dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="398dp"
+        android:layout_height="95dp"
+        android:text="@string/nos_dias_quentes_tendemos_a_ficar_mais_expostos_aos_raios_solares_sob_o_sol_aumentam_os_riscos_de_queimaduras_c_ncer_de_pele_e_de_envelhecimento_precoce_da_pele_por_isso_preciso_investir_na_hidrata_o_ingerindo_bastante_l_quido_o_uso_do_protetor_solar_torna_se_ainda_mais_obrigat_rio_prefira_os_com_fps_30_ou_superior_e_com_prote_o_uva_e_uvb_aplicando_a_cada_duas_horas"
+        android:textColor="#000000"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="360dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_2_alimenta_o_e_hidrata_o"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="458dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="396dp"
+        android:layout_height="71dp"
+        android:text="@string/a_reposi_o_de_l_quidos_essencial_para_manter_a_sa_de_e_as_fun_es_b_sicas_do_organismo_promover_s_ntese_proteica_e_crescimento_muscular_regular_a_temperatura_corporal_desintoxicar_o_organismo_levando_embora_metab_litos_indesej_veis_pela_urina_absorver_e_transportar_os_nutrientes_al_m_de_auxiliar_no_emagrecimento"
+        android:textColor="#000000"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="477dp" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_3_cuidados_especiais_na_longevidade"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="557dp" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="397dp"
+        android:layout_height="59dp"
+        android:text="@string/os_idosos_precisam_de_um_cuidado_especial_com_foco_na_ingest_o_de_l_quidos_por_quest_es_pr_prias_da_velhice_tendem_a_sentir_menos_sede_e_com_isso_muitos_deixam_de_beber_a_quantidade_de_gua_necess_ria_para_repor_os_l_quidos_ao_longo_do_dia"
+        android:textColor="#000000"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="582dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

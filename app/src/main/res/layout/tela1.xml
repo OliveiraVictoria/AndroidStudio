@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="404dp"
+        android:layout_height="34dp"
+        android:text="@string/a_newsleter_que_traz_os_melhores_conteudos_do_estado_sobre_vida_saud_vel_increva_se_para_receber_por_e_mail"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="88dp" />
+
+    <TextView
+        android:id="@+id/numero"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_15_31"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="94dp"
+        tools:layout_editor_absoluteY="39dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sa_de_bem_estar"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="9dp"
+        tools:layout_editor_absoluteY="69dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="37dp"
+        android:layout_height="41dp"
+        app:srcCompat="@drawable/cavalo"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="28dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estad_o"
+        android:textColor="#3F51B5"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="39dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="413dp"
+        android:layout_height="29dp"
+        android:background="#172B97"
+        android:text="@string/_15_31r"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="1dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="41dp"
+        android:layout_height="54dp"
+        app:srcCompat="@drawable/cavalo"
+        tools:layout_editor_absoluteX="-3dp"
+        tools:layout_editor_absoluteY="148dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estad_oo"
+        android:textColor="#3F51B5"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="169dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/eliane_cantanh_de"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="9dp"
+        tools:layout_editor_absoluteY="202dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_15_31s"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="93dp"
+        tools:layout_editor_absoluteY="170dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quot_bolsonaro_na_onu_ataca_lula_e_fala_maravilha_do_seu_governo_mas_n_o_muda_votos_no_brasil_quot_leia_coluna"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="221dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="35dp"
+        android:layout_height="55dp"
+        app:srcCompat="@drawable/cavalo"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="285dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estad_ot"
+        android:textColor="#3F51B5"
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="299dp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bolsonaro_insiste_em_dados_enganosos_sobre_petrobras_meio_ambiente_e_economia_em_discurso_na_onu_veja_checagem_ponto_a_ponto"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="347dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_15_31t"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="296dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estad_o_verifica"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="328dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="37dp"
+        android:layout_height="43dp"
+        app:srcCompat="@drawable/cavalo"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="424dp" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/desabamento_em_empresa_deixa_ao_menos_cinco_mortos_em_itapecerica_da_serra_funcion_rios_participavam_de_reuni_o_com_candidatos_a_deputado"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="483dp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_15_31u"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="89dp"
+        tools:layout_editor_absoluteY="436dp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estad_oi"
+        android:textColor="#3F51B5"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="439dp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/desastre_na_grande_sp"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="466dp" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="33dp"
+        android:layout_height="44dp"
+        app:srcCompat="@drawable/cavalo"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="582dp" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/estad_op"
+        android:textColor="#3F51B5"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="593dp" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/a_saga_de_eike_batista"
+        android:textColor="#000000"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="621dp" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_15_31l"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteX="90dp"
+        tools:layout_editor_absoluteY="591dp" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ex_bilion_rio_tenta_superar_seu_inferno_financeiro_e_criminal_saiba_como_ele_vive_hoje"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="639dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="131dp"
+        android:layout_height="40dp"
+        android:text="@string/ver_mais"
+        tools:layout_editor_absoluteX="264dp"
+        tools:layout_editor_absoluteY="122dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="131dp"
+        android:layout_height="40dp"
+        android:text="@string/ver_maisl"
+        tools:layout_editor_absoluteX="264dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="131dp"
+        android:layout_height="40dp"
+        android:text="@string/ver_maisk"
+        tools:layout_editor_absoluteX="267dp"
+        tools:layout_editor_absoluteY="387dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="131dp"
+        android:layout_height="40dp"
+        android:text="@string/ver_maism"
+        tools:layout_editor_absoluteX="267dp"
+        tools:layout_editor_absoluteY="525dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="131dp"
+        android:layout_height="40dp"
+        android:text="@string/ver_maisb"
+        tools:layout_editor_absoluteX="270dp"
+        tools:layout_editor_absoluteY="665dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
